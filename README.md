@@ -26,10 +26,3 @@ Ekran aşağıdaki görseldeki gibi olacaktır.
 - Günlerin listelendiği kartlarda; gün adı, hava durumu görseli(güneşli, yağmurlu, karlı, parçalı bulutlu), en yüksek ve en düşük sıcaklık gösterilmelidir.
 - Bir dropdown aracılığı ile farklı bir şehrin hava raporuna ulaşılabilmelidir.
 
- # :e-mail: Contact
-|***Sefa Demirtaş***|
-|:-------------|
-|*Java Developer*|
-|[Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230/)|
-|[Patika.dev](https://app.patika.dev/sefad)|
-|sefa.demirtas91@gmail.com|
